@@ -1,9 +1,9 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
 SONAKMALELA,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CTO office,"Ceo,tag1,manager,cto",false,,A01,,
-SIMANGUNSONG,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A02,A01,
-MARPAUNG,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A03,A01,
-NAPITUPULU,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A04,A01,
-PARDEDE,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A05,A01,
+SIMANGUNSONG,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A02,,
+MARPAUNG,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A03,,
+NAPITUPULU,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A04,,
+PARDEDE,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A05,,
 SIMANAMPANG,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"tag1",false,,B01,A03,
 SIPANGASEAN,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,B02,A03,
 TUAN OGOR,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,C01,B01,
