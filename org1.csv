@@ -1,5 +1,4 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-SONAKMALEL,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CTO office,"Ceo,tag1,manager,cto",false,,A01,,
 SIMANGUNSONG,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A02,,
 MARPAUNG,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A03,,
 NAPITUPULU,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,,CEO office,"Ceo,tag1, tag2",false,,A04,,
